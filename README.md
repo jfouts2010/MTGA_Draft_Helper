@@ -1,1 +1,1 @@
-# MTGA_Draft_Helper
+# MTGA Draft Helper
